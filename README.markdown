@@ -1,6 +1,6 @@
 # Trinity Digital code style.
 
-This code style is largely borrowed from the raywenderlich.com Swift Style Guide.
+This code style is inspired by the raywenderlich.com Swift Style Guide.
 Our overarching goals are clarity, consistency and brevity, in that order.
 
 ## Table of Contents
