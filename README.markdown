@@ -186,7 +186,7 @@ The next sequence nice to follow:
 
 // MARK: - Private Properties
 
-// MARK: - Initializers or LifeCycle(*)
+// MARK: - Initializers or Life Cycle(*)
 
 // MARK: - IBAction
 
@@ -195,7 +195,7 @@ The next sequence nice to follow:
 // MARK: - Private Methods
 
 ```
-> (*)Use `LifeCycle` mark for UI elements.
+> (*)Use `Life Cycle` mark for UI elements.
 
 ### Protocol Conformance
 
